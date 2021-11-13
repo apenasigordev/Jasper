@@ -1,8 +1,4 @@
-# Svelte + Vite
+# [Jasper](player.jasperadio.ga)
+Jasper is a radio station plataform developed by [Light Connect™](https://twitter.com/lightprojetos)
 
-This template should help get you started developing with Svelte in Vite.
-
-The entry point for the app can be found in /src/App.svelte.
-
-
-See svelte.dev to get started with Svelte!
+This is just open source for bug fixes and ideas!
